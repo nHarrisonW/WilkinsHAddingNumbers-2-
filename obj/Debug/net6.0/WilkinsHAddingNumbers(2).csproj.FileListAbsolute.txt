@@ -1,0 +1,15 @@
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/bin/Debug/net6.0/WilkinsHAddingNumbers(2)
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/bin/Debug/net6.0/WilkinsHAddingNumbers(2).deps.json
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/bin/Debug/net6.0/WilkinsHAddingNumbers(2).runtimeconfig.json
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/bin/Debug/net6.0/WilkinsHAddingNumbers(2).dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/bin/Debug/net6.0/WilkinsHAddingNumbers(2).pdb
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).csproj.AssemblyReference.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).AssemblyInfoInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).AssemblyInfo.cs
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).csproj.CoreCompileInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/refint/WilkinsHAddingNumbers(2).dll
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).pdb
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/WilkinsHAddingNumbers(2).genruntimeconfig.cache
+/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHAddingNumbers(2)/obj/Debug/net6.0/ref/WilkinsHAddingNumbers(2).dll
